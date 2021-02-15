@@ -1,2 +1,2 @@
-![print](/HTML_CSS/imagens/print.png)
+![print](HTML_CSS/imagens/print.PNG)
 
